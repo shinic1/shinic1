@@ -3,11 +3,10 @@
 
 
 ## 🚀 About Me  
-👤 Hey, I'm Nico  
+👤 Hey, I'm **Nico**  
 🔭 I’m currently working on **[Pow](https://github.com/shinic1/pow)**  
 🌱 I’m learning **Artificial intelligence**  
-💬 Ask me about **[Your Specialties]**  
-📫 How to reach me: [Your Email or LinkedIn Profile](Link)  
+📫 How to reach me: [Linkedin](https://www.linkedin.com/in/nico-bourel-09237a216/)  
 
 
 ## 💻 Tech Stack:   
