@@ -1,8 +1,16 @@
 # 💫 Coding the Future  
 **Innovation through advancement**  
 
-## 💻 Tech Stack:  
-## 💻 Tech Stack:  
+
+## 🚀 About Me  
+👤 Hey, I'm Nico
+🔭 I’m currently working on **[Pow](https://github.com/shinic1/pow)**  
+🌱 I’m learning **[Your Learning Focus]**  
+💬 Ask me about **[Your Specialties]**  
+📫 How to reach me: [Your Email or LinkedIn Profile](Link)  
+
+
+## 💻 Tech Stack:   
 
 ### Programming Languages  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
@@ -31,27 +39,3 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)  
 
-
----
-
-## 🚀 About Me  
-🔭 I’m currently working on **[Your Current Project](Link to Project)**  
-🌱 I’m learning **[Your Learning Focus]**  
-💬 Ask me about **[Your Specialties]**  
-📫 How to reach me: [Your Email or LinkedIn Profile](Link)  
-
----
-
-### Step 4: Add Shields.io Badges
-To add badges for the technologies or tools you use, generate them using [Shields.io](https://shields.io/) with custom styles and links.
-
----
-
-### Step 5: Enhance with Dynamic Stats
-Use the free API services like:
-- **[GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)**  
-- **[GitHub Profile Views Counter](https://github.com/antonkomarev/github-profile-views-counter)**
-
----
-
-Let me know if you want help setting up specific stats or badges!
