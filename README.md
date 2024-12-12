@@ -1,19 +1,6 @@
 # 💫 Coding the Future  
 **Architecting Innovation**  
 
----
-
-## 📊 GitHub Stats:  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)  
-
----
-
-## 🔝 Top Contributed Repo  
-[![Top Contributed Repo](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=YourRepoName&theme=radical)](https://github.com/YourUsername/YourRepoName)  
-
----
-
 ## 💻 Tech Stack:  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
