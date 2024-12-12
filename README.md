@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me  
-👤 Hey, I'm **Nico**
+👤 Hey, I'm Nico  
 🔭 I’m currently working on **[Pow](https://github.com/shinic1/pow)**  
 🌱 I’m learning **[Your Learning Focus]**  
 💬 Ask me about **[Your Specialties]**  
