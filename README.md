@@ -1,40 +1,39 @@
-# 💫 Coding the Future  
-**Innovation through advancement**  
+# Nico Bourel
 
+Applied AI Engineer building production LLM evaluation systems, voice-agent workflows, internal automation, and full-stack AI applications.
 
-## 🚀 About Me  
-👤 Hey, I'm **Nico**  
-🔭 I’m currently working on **[Pow](https://github.com/shinic1/pow)**  
-🌱 I’m learning **Artificial intelligence**  
-📫 How to reach me: [Linkedin](https://www.linkedin.com/in/nico-bourel-09237a216/)  
+I work at **AnSer AI**, where I progressed from AI Engineering Intern to AI Engineer on a four-person startup-style team. My work includes 26 LLM-based performance-scoring scripts used across 60,000 calls, a self-hosted applicant-tracking workflow supporting 30+ candidates per month, and voice-agent demos with human-in-the-loop routing.
 
+- **Location:** Green Bay, WI | Open to relocation
+- **Portfolio:** [swedev.online](https://swedev.online)
+- **LinkedIn:** [nico-bourel-09237a216](https://www.linkedin.com/in/nico-bourel-09237a216/)
+- **Email:** [Nico.bourel@swedev.online](mailto:Nico.bourel@swedev.online)
 
-## 💻 Tech Stack:   
+## Featured Projects
 
-### Programming Languages  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+### [Jetter](https://github.com/shinic1/Jetter)
 
-### Frontend Development  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+A SwiftUI iOS application that turns flight routes and traveler sleep preferences into timezone-aware jet-lag plans. It supports live AeroDataBox flight lookup, manual route entry, local trip persistence, sleep-cycle scheduling, meal guidance, readiness scoring, pre-flight preparation, and shareable trip summaries.
 
-### Backend Development  
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
+**Stack:** Swift, SwiftUI, Foundation, AeroDataBox API, local JSON persistence
 
-### Data Science  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) 
-![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-2F6690?style=for-the-badge&logo=beautifulsoup&logoColor=white) 
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  
+### [NicoBot AI Portfolio](https://swedev.online)
 
-### Databases  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+A recruiter-facing AI portfolio that answers questions about my projects and verified experience. It uses a grounded RAG pipeline to retrieve facts from Pinecone before generating OpenAI responses, with retrieval telemetry, input validation, sanitization, and rate limiting.
 
-### Tools & Platforms  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) 
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) 
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)  
+**Stack:** React, TypeScript, Vite, FastAPI, OpenAI API, Pinecone  
+**Source:** [shinic1/Portfolio](https://github.com/shinic1/Portfolio)
 
+### Real Jarvis
+
+An event-driven multimodal Linux assistant with wake-word detection, voice interaction, face-based presence tracking, persistent memory, and OpenAI tool calling. I also developed custom ReSpeaker microphone-array firmware and a FastAPI/WebSocket API with a React dashboard for real-time assistant state.
+
+**Stack:** Python, Linux, FastAPI, React, TypeScript, OpenAI API, OpenCV, WebSockets  
+**Repository:** Private while the project is being polished
+
+## Core Technologies
+
+**Languages:** Python, TypeScript, JavaScript, Swift, Java  
+**AI:** OpenAI API, RAG, LLM evaluation, prompt engineering, tool calling, LiveKit, Vapi, ElevenLabs  
+**Applications:** FastAPI, React, Next.js, WebSockets, PostgreSQL, Pinecone  
+**Infrastructure:** Linux, Docker, Railway, Coolify, Cloudflare Tunnel, Git
