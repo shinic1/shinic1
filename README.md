@@ -24,7 +24,7 @@ A recruiter-facing AI portfolio that answers questions about my projects and ver
 **Stack:** React, TypeScript, Vite, FastAPI, OpenAI API, Pinecone  
 **Source:** [shinic1/Portfolio](https://github.com/shinic1/Portfolio)
 
-### [Jarvis Personal AI Assistant](https://github.com/shinic1/real-jarvis)
+### [Apex Personal AI Assistant](https://github.com/shinic1/real-jarvis)
 
 An event-driven multimodal Linux assistant with wake-word detection, voice interaction, face-based presence tracking, persistent memory, and OpenAI tool calling. I also developed custom ReSpeaker microphone-array firmware and a FastAPI/WebSocket API with a React dashboard for real-time assistant state.
 
