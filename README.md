@@ -4,7 +4,6 @@ Applied AI Engineer building production LLM evaluation systems, voice-agent work
 
 I work at **AnSer AI**, where I progressed from AI Engineering Intern to AI Engineer on a four-person startup-style team. My work includes 26 LLM-based performance-scoring scripts used across 60,000 calls, a self-hosted applicant-tracking workflow supporting 30+ candidates per month, and voice-agent demos with human-in-the-loop routing.
 
-- **Location:** Green Bay, WI | Open to relocation
 - **Portfolio:** [swedev.online](https://swedev.online)
 - **LinkedIn:** [nico-bourel-09237a216](https://www.linkedin.com/in/nico-bourel-09237a216/)
 - **Email:** [Nico.bourel@swedev.online](mailto:Nico.bourel@swedev.online)
